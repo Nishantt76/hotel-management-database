@@ -40,10 +40,10 @@ Designed a relational hotel management database using MySQL to manage guests, ro
 ## Project Screenshots
 
 ### Database Tables
-![Database Tables](screenshots/database-tables.png)
+![Database Tables](Screenshots/database-tables.png)
 
 ### Booking, Guest, Room and Payment Query
-![Booking Payment Join](screenshots/booking-payment-join.png)
+![Booking Payment Join](Screenshots/booking-payment-join.png)
 
 ### Payment Summary
-![Payment Summary](screenshots/payment-summary.png)
+![Payment Summary](Screenshots/payment-summary.png)
