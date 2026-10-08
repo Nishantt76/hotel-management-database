@@ -47,3 +47,11 @@ Designed a relational hotel management database using MySQL to manage guests, ro
 
 ### Payment Summary
 ![Payment Summary](Screenshots/payment-summary.png)
+
+## How to Run
+
+1. Open MySQL Workbench.
+2. Create or select the `hotel_management` database.
+3. Open `hotel_management.sql`.
+4. Execute the SQL script.
+5. Run the queries to view booking, room, guest and payment information.
